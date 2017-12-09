@@ -21,6 +21,7 @@ A curated list of awesome Anki Cozmo projects and resources. Feel free to contri
 *  [ScratchCozmoSDK](https://github.com/madfrog54321/ScratchCozmoSDK) - Scratch extension to program the Cozmo robot from Anki
 *  [scratch-cozmo-extension](https://github.com/khanning/scratch-cozmo-extension) - Test ScratchX extension for Cozmo robot from Anki
 *  [cozmo-slack](https://github.com/codeaid-dev/cozmo-slack) - You can control Cozmo by Slack
+*  [Calypso](https://calypso.software/) - Calypso is a human-friendly robot intelligence framework
 
 
 # Projects
