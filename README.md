@@ -42,6 +42,7 @@ A curated list of awesome Anki Cozmo projects and resources. Feel free to contri
 ### Articles
 
 ### Videos
+* [Fun with Robotics](https://www.youtube.com/watch?v=ALyck7rXkB4&list=PLVENM3OUQBSDXawxaWe9cNpp2oNh1RcRD) - Youtube channel about Code Lab, SDK and with showcases
 
 ### Books
 
