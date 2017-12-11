@@ -54,4 +54,4 @@ A curated list of awesome Anki Cozmo projects and resources. Feel free to contri
 
 # Contributing
 
-Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See [CONTRIBUTING](/CONTRIBUTING.md) for guidelines.
+Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See [CONTRIBUTING](/contributing.md) for guidelines.
