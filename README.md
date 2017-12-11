@@ -23,7 +23,6 @@ A curated list of awesome Anki Cozmo projects and resources. Feel free to contri
 *  [cozmo-slack](https://github.com/codeaid-dev/cozmo-slack) - You can control Cozmo by Slack
 *  [Calypso](https://calypso.software/) - Calypso is a human-friendly robot intelligence framework
 
-
 # Projects
 *  [cozmo_driver](https://github.com/OTL/cozmo_driver) - Anki cozmo ROS driver
 *  [cozplay-demos](https://github.com/cozplay/cozplay-demos) - Prototypes developed by ETC team Cozplay using the Python SDK for Cozmo robot
@@ -46,6 +45,9 @@ A curated list of awesome Anki Cozmo projects and resources. Feel free to contri
 * [Fun with Robotics](https://www.youtube.com/watch?v=ALyck7rXkB4&list=PLVENM3OUQBSDXawxaWe9cNpp2oNh1RcRD) - Youtube channel about Code Lab, SDK and with showcases
 
 ### Books
+
+### Web Sites
+*  [Cozmopedia](https://Cozmopedia.org) - Collection of useful information for Cozmo programmers
 
 # Community
 * [forums](https://forums.anki.com) - Cozmo SDK Forums
